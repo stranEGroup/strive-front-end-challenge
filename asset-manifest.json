@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/stranEGroup/strive-front-end-challenge/static/css/main.365d7492.chunk.css",
+    "main.js": "/stranEGroup/strive-front-end-challenge/static/js/main.178e331a.chunk.js",
+    "main.js.map": "/stranEGroup/strive-front-end-challenge/static/js/main.178e331a.chunk.js.map",
+    "runtime-main.js": "/stranEGroup/strive-front-end-challenge/static/js/runtime-main.11414a42.js",
+    "runtime-main.js.map": "/stranEGroup/strive-front-end-challenge/static/js/runtime-main.11414a42.js.map",
+    "static/js/2.c123b75f.chunk.js": "/stranEGroup/strive-front-end-challenge/static/js/2.c123b75f.chunk.js",
+    "static/js/2.c123b75f.chunk.js.map": "/stranEGroup/strive-front-end-challenge/static/js/2.c123b75f.chunk.js.map",
+    "static/js/3.2fa16c19.chunk.js": "/stranEGroup/strive-front-end-challenge/static/js/3.2fa16c19.chunk.js",
+    "static/js/3.2fa16c19.chunk.js.map": "/stranEGroup/strive-front-end-challenge/static/js/3.2fa16c19.chunk.js.map",
+    "index.html": "/stranEGroup/strive-front-end-challenge/index.html",
+    "static/css/main.365d7492.chunk.css.map": "/stranEGroup/strive-front-end-challenge/static/css/main.365d7492.chunk.css.map",
+    "static/js/2.c123b75f.chunk.js.LICENSE.txt": "/stranEGroup/strive-front-end-challenge/static/js/2.c123b75f.chunk.js.LICENSE.txt",
+    "static/media/Wordmark - HeaderBarAir.dccda281.svg": "/stranEGroup/strive-front-end-challenge/static/media/Wordmark - HeaderBarAir.dccda281.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11414a42.js",
+    "static/js/2.c123b75f.chunk.js",
+    "static/css/main.365d7492.chunk.css",
+    "static/js/main.178e331a.chunk.js"
+  ]
+}
