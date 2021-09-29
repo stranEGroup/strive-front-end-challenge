@@ -1,0 +1,23 @@
+.person-card {
+    display: flex;
+    max-width: 576px;
+    margin: 15px auto;
+    height: 96px;
+    text-align: left;
+}
+
+.person-avatar img {
+    height: 96px;
+}
+
+.person-info {
+    padding: 5px 15px;
+}
+
+.person-name {
+    font-size: 16px;
+}
+
+.person-description {
+    font-size: 14px;
+}
